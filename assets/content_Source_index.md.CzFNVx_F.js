@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.DwDoyBw8.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"content/Source/index.md","filePath":"content/Source/index.md"}'),o={name:"content/Source/index.md"};function c(r,a,s,d,i,p){return n(),t("div")}const f=e(o,[["render",c]]);export{m as __pageData,f as default};
